@@ -42,7 +42,7 @@ async def start(event):
         buttons=[
             [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Mention6_bot?startgroup=true")],
             [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/AKATSUKI_OFFICIAL_0"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "https://t.me/AKATSUKI_OFFICIAL_0")],
-            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 BRANDED ❤️‍🔥", "https://t.me/prashant_sahlot")]
+            [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/BRANDED_PAID_CC"), Button.url("❤️‍🔥 OWNER ❤️‍🔥", "https://t.me/prashant_sahlot")]
         ]
     )
 
